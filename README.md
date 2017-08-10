@@ -1,5 +1,38 @@
 # Startup-troll
 
+
+
+
+
+
+
+
+Simple python "virus" that trolls at startup.
+Do not change names of files if you want this to work.
+Name of file is "Audacity" so if you want to troll someone it makes some sense.
+File must be stored in "Downloads" folder in order for this to work.
+I am not liable for any damage made by this program.
+
+VirusTotal results: https://www.virustotal.com/sr/file/590f00d775e328e8434e9356e29af5d885acc219ae68d5a88c79b5300154bcce/analysis/
+
+
+Removal:
+Open run(Windows key + R) and type in "shell:startup" without quotes.Delete Audacityy.bat.
+Then delete the folder "Audacity" from your "Downloads" folder.
+
+It includes youareanidiot.org and my mouse blocker which can be closed from task manager.
+
+
+
+
+
+
+
+
+
+
+
+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
